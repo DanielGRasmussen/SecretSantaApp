@@ -4,7 +4,7 @@ It is a (currently incomplete) Secret Santa picker app. You can enter family mem
 
 I made this app to learn how to create mobile apps. I learned several things about how to make them. I was surprised by how close the UI making is to CSS.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/ihdySCDOJ0Q)
 
 # Development Environment
 
